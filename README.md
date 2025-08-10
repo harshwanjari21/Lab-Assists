@@ -67,7 +67,7 @@ Project Folder: `LabAssist`
 
 ```bash
 git clone https://github.com/harshwanjari21/Lab-Assists.git
-cd MedLab_Main
+cd LabAssist
 ```
 
 ### 2. Database Setup (MySQL)
@@ -84,7 +84,7 @@ cd MedLab_Main
 ### 3. Backend Setup (Flask)
 - Go to the `backend` folder:
   ```bash
-  cd MedLab_Main/backend
+  cd LabAssist/backend
   ```
 - Create and configure your `.env` file (see `.env.example` for reference).
 - Install dependencies:
