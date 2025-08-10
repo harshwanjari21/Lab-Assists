@@ -1,4 +1,9 @@
+
 # 🧪 LabAssist
+
+Repository: [https://github.com/harshwanjari21/Lab-Assists](https://github.com/harshwanjari21/Lab-Assists)
+
+Project Folder: `LabAssist`
 
 **LabAssist** is a next-generation Laboratory Management System (LMS) designed to streamline and digitize the workflow of diagnostic labs. Built with a React.js frontend and a Python Flask backend, LabAssist empowers lab staff to efficiently manage patients, tests, reports, and analytics—all through a secure and intuitive web interface.
 
@@ -59,9 +64,10 @@
 ## 🏁 Getting Started
 
 ### 1. Clone the Repository
+
 ```bash
-git clone <your-repo-url>
-cd <project-folder>
+git clone https://github.com/harshwanjari21/Lab-Assists.git
+cd MedLab_Main
 ```
 
 ### 2. Database Setup (MySQL)
@@ -78,7 +84,7 @@ cd <project-folder>
 ### 3. Backend Setup (Flask)
 - Go to the `backend` folder:
   ```bash
-  cd backend
+  cd MedLab_Main/backend
   ```
 - Create and configure your `.env` file (see `.env.example` for reference).
 - Install dependencies:
